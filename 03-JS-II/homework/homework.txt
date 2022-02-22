@@ -1,0 +1,8 @@
+* `for`: Es un bucle que permite realizar facilmente tareas repetitivas. Es practicamente como una 
+		 sumatoria en álgebra. Dentro del bucle podemos hacer cualquier cosa.
+
+* `&&`, `||`, `!`: Son operadores lógicos.
+
+&& indica que la condicion será TRUE si ambos valores son TRUE.
+|| indica que la condicion será TRUE si alguno de los dos valores es TRUE.
+!  Es simplemente la negacion de un booleano. por ejemplo: !true será igual a false y viceversa. 

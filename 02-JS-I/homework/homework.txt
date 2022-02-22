@@ -1,0 +1,14 @@
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+	* Variables: Una variable es una especi de caja en donde podemos guardar dustintas cosas. 
+	* String: Hace referencia a un texto y se escribe dentro de comillas simples o dobles ("", '')
+	* Funciones: Sirven para saltar dentro del código y para ahorrar tiempo en tareas repetitivas. 
+		- Argumentos: Son datos que recibe la funcion y que serán utilizados dentro de ella.
+		- Return: Retorna el valor que asigmenos. Si no asignamos nada, retornará undefined. 
+	* Declaraciones `if`: Es una declaración que sirve para bifurcar los datos.
+	* Valores booleanos (`true`, `false`): true indica verdare y false inidica falso. 
+	se usan dentro de las dclataciones if y en comparaciones en general.										
